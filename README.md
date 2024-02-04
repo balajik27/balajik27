@@ -3,7 +3,7 @@
 Junior Front-end Developer Intern @ NanLogical Consultancy Pvt Lmt.
 
 Fron-end Developer | Full Stack Developer | Programmer | Django Developer | Computer Science Engineer 
-<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw0rhmpDDNIWMbhZzfQE6sy6&ust=1707121241470000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICdnu2gkYQDFQAAAAAdAAAAABAI">
+<img align="right" width="370" height="290" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw0rhmpDDNIWMbhZzfQE6sy6&ust=1707121241470000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICdnu2gkYQDFQAAAAAdAAAAABAI](https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif)">
 - 🔭 Here's my [portfolio](https://balajik27.github.io/Portfolio/)                                                 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web development
