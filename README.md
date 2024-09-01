@@ -1,5 +1,6 @@
 ## Hi there 👋 It's me Balaji K
 
+Full Stack Developer at Ensure Safe consultancy pte lmt.
 Junior Front-end Developer Intern @ NanLogical Consultancy Pvt Lmt.
 
 Fron-end Developer | Full Stack Developer | Programmer | Django Developer | Computer Science Engineer 
