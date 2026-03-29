@@ -7,6 +7,8 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajik27&label=Profile%20views&color=0e75b6&style=flat" alt="balajik27" /> </p>
+
 ### 🚀 About Me
 
 - 💻 Full Stack Developer experienced in **Java Backend and MERN Stack development**
