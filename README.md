@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Balaji K
 
-💻 Full Stack Developer | Ex-Ensure Safe Consultancy PTE LTD  
+💻 Full Stack Developer | Ensure Safe Consultancy PTE LTD  
 🎓 B.E. Computer Science Engineer (2020-2024)
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
