@@ -21,7 +21,7 @@
 
 ### 🌐 Portfolio
 
-🔗 https://balajik27.github.io/Portfolio/
+🔗 https://balaji-portfolio-d9vt.onrender.com
 
 ---
 
