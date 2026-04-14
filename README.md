@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 💻 Full Stack Developer experienced in **MERN Stack development and Java Backend **
+- 💻 Full Stack Developer experienced in **MERN Stack development and Java Backend**
 - 🌱 Currently improving **System Design, Spring Boot and Advanced DSA**
 - 🧠 Interested in **Backend Engineering, APIs, and scalable systems**
 - 💬 Ask me about **ReactJS, NodeJS, Java, Spring Boot, Databases, and DSA**
