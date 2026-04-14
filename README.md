@@ -13,7 +13,6 @@
 
 - 💻 Full Stack Developer experienced in **Java Backend and MERN Stack development**
 - 🌱 Currently improving **Spring Boot, System Design, and Advanced DSA**
-- 🎯 Preparing for **Product-Based Companies**
 - 🧠 Interested in **Backend Engineering, APIs, and scalable systems**
 - 💬 Ask me about **Java, Spring Boot, ReactJS, NodeJS, Databases, and DSA**
 
