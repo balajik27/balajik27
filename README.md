@@ -20,7 +20,7 @@
 
 ### 🌐 Portfolio
 
-🔗 https://balaji-portfolio-d9vt.onrender.com
+🔗 https://bit.ly/balaji-k-portfolio
 
 ---
 
